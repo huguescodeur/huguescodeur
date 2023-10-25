@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huguescodeur
 - 👀 I’m interested in Data Science, Machine Learning and Mobile Apps
-- 🌱 I’m currently learning Python, Numpy, Flutter, Firebase
+- 🌱 I’m currently learning Python, Data, SQL, Flutter, Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
